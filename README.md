@@ -1,4 +1,4 @@
-# EDSR challenge baseline for IMLab in Sejong University
+# EDSR challenge baseline for IMMLab in Sejong University
 
 - conda create -n sr_env python=3.9
 - conda activate sr_env
